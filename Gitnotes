@@ -9,7 +9,4 @@ git commit -m "message for display purpose"
 git log
 git push
 
-git pull[A[A[A[A[A[A[A[A[C[C[C[C
-
-[A[A[B[B[B[B[B[B[B[B[B[B[B[B[F
-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D
+git pull
